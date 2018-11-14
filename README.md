@@ -27,15 +27,9 @@ Anti-aliased resampling
 IQ demodulation
 
 IIR Filter design: Butterworth, Chebyshev 1, Chebyshev 2
-
 FIR filter design: windowing method
-
 Filtering implementation: direct 1 & 2 , parallel and cascade forms
-
 Frequency trasformations: lowpass to highpass , lowpass to bandpass
-
 Transfer function z-plane representation
-
 Matlab object oriented programming
-
 I/O using .csv and .mat files
